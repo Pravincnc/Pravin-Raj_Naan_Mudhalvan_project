@@ -40,25 +40,21 @@ Shcadcn UI – Ensures a consistent and appealing UI.
 
 Installation & Running the Project
 
-1. Clone Repository
 
-git clone https://github.com/HarshKumarraghav/Cryptoverse.git
-
-
-2. Install Dependencies
+1. Install Dependencies
 
 npm install
 or
 yarn install
 
 
-3. Run the Project
+2. Run the Project
 
 npm run dev
 or
 yarn run dev
 
 
-4. Access the App
+3. Access the App
 The project runs at https://localhost:5173.
 
